@@ -1,23 +1,24 @@
 # img-url-extra
-A Universal Image URL Extractor Chrome Extension
+### A Universal Image URL Extractor Chrome Extension
 
-This is the repo for Chrome Browser Extension.
+![Chrome Web Store](https://img.shields.io/chrome-web-store/v/cnhnpadgblbfdilejkcjenmklcellfdo.svg?style=flat-square&logo=google-chrome)
+![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/cnhnpadgblbfdilejkcjenmklcellfdo.svg?style=flat-square)
 
-https://chromewebstore.google.com/detail/universal-image-url-extra/cnhnpadgblbfdilejkcjenmklcellfdo
+Welcome to the official repository for the **img-url-extra** Chrome Extension.
 
-# Description
-Extracts the first URL from clipboard content and copies it to the clipboard.
+[View in Chrome Web Store](https://chromewebstore.google.com/detail/universal-image-url-extra/cnhnpadgblbfdilejkcjenmklcellfdo)
 
-Have you ever copied an image from a Google Doc only to find that pasting it elsewhere doesn't work as expected? The image URL is actually stored in your clipboard, but not in a way that's immediately usable. This extension solves that problem by extracting the image URL from your clipboard and copying it back in a format you can use.
+## Description
+**img-url-extra** simplifies your workflow by extracting the first URL from clipboard content and automatically copying it back to the clipboard for immediate use.
 
-- Extracts the image URL from your clipboard when you copy an image from Google Docs.
-- Automatically copies the extracted URL back to your clipboard.
-- Ensures that pasting the URL results in the full-size image being accessible.
+**Key Features:**
+- **Google Docs Integration:** Automatically extracts image URLs directly from your clipboard when copying images from Google Docs.
+- **Clipboard Reformatting:** Transforms the extracted URL into a more usable format and copies it back to your clipboard.
+- **Full-Size Image Access:** Ensures that the pasted URL leads directly to the full-size image.
 
-# Does
-![image](https://github.com/user-attachments/assets/463c032b-a97d-478c-92da-bce1a5a03554)
-![image](https://github.com/user-attachments/assets/fe9c07c3-7d6e-48b8-a9bf-9827356d9d87)
+## Gallery
+![Screenshot 1](https://github.com/user-attachments/assets/463c032b-a97d-478c-92da-bce1a5a03554)
+![Screenshot 2](https://github.com/user-attachments/assets/fe9c07c3-7d6e-48b8-a9bf-9827356d9d87)
 
-
-# See also
-https://crxcavator.io/report/cnhnpadgblbfdilejkcjenmklcellfdo?platform=Chrome
+## Additional Resources
+For a detailed security report, visit [CRXcavator](https://crxcavator.io/report/cnhnpadgblbfdilejkcjenmklcellfdo?platform=Chrome).
